@@ -1,17 +1,42 @@
-# TMJ-CBCT-Segmentation-Data
-TMJ-CBCT-Segmentation-Data
-License
 
-This dataset is shared under the Creative Commons Attribution 4.0 (CC BY 4.0) license. You may use, modify, and distribute it for research and educational purposes with proper citation.
-Citation
+---
 
-If you use this dataset, please cite the following in your work:
+##  Annotation Details
 
-    Wu, Y. (2025). Automatic Segmentation of the Temporomandibular Joint in Biomedical Images using Deep Learning Approach. University of Malaya.
+- `-L.nii.gz`: Represents the segmentation of the **left** temporomandibular joint.
+- `-R.nii.gz`: Represents the segmentation of the **right** temporomandibular joint.
+- All annotations were created by **licensed radiologists** with clinical experience in oral and maxillofacial imaging.
 
-Contact
+---
 
-If you have questions or need collaboration, feel free to reach out:
+##  Ethics and Data Approval
 
-Author: Yihong Wu
-Email: 22117989@siswa.um.edu.my
+- All CBCT scans and annotations have been **approved by the collaborating hospital's ethics committee**.
+- All patient data has been **fully de-identified (de-anonymized)**.
+- Explicit **written consent** was obtained from all patients for data usage in academic research and publication.
+
+---
+
+## Intended Use
+
+This dataset is intended for research on:
+- 3D medical image segmentation
+- Deep learning model benchmarking (e.g., U-Net, nnU-Net)
+- TMJ disorder analysis and diagnostic tool development
+
+---
+
+## License & Citation
+
+- **License**: For non-commercial research and educational use only.
+- Please cite this repository or our related paper if you use this dataset in your work.
+
+---
+
+## Related Project
+
+This dataset was used in the following project:
+> Wu, Yihong. (2025). *Automatic Segmentation of the Temporomandibular Joint in Biomedical Images using Deep Learning Approach*. Master’s Thesis, University of Malaya.
+
+---
+
