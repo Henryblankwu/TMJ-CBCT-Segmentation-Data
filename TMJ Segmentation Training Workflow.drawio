@@ -74,9 +74,6 @@
         <mxCell id="h7lxmg1ClQ-oWd5Mk2G1-29" value="&lt;strong data-end=&quot;392&quot; data-start=&quot;368&quot;&gt;CBCT Data Collection&lt;/strong&gt;&lt;br&gt;&amp;amp; &lt;strong data-end=&quot;432&quot; data-start=&quot;399&quot;&gt;TMJ Annotation (Left / Right)&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="-25" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="onGAZu-3OmGh9ZCv7hT1-1" value="&lt;p data-start=&quot;226&quot; data-end=&quot;251&quot;&gt;&lt;strong data-start=&quot;226&quot; data-end=&quot;249&quot;&gt;Comparative Methods&lt;/strong&gt;&lt;/p&gt;&#xa;&lt;ul data-start=&quot;254&quot; data-end=&quot;292&quot;&gt;&#xa;&lt;li data-start=&quot;254&quot; data-end=&quot;268&quot;&gt;&#xa;&lt;p data-start=&quot;256&quot; data-end=&quot;268&quot;&gt;nnU-Net v1&lt;/p&gt;&#xa;&lt;/li&gt;&#xa;&lt;li data-start=&quot;271&quot; data-end=&quot;292&quot;&gt;&#xa;&lt;p data-start=&quot;273&quot; data-end=&quot;292&quot;&gt;3D U-Net baseline&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="390" width="170" height="240" as="geometry" />
-        </mxCell>
         <mxCell id="onGAZu-3OmGh9ZCv7hT1-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="onGAZu-3OmGh9ZCv7hT1-2" target="h7lxmg1ClQ-oWd5Mk2G1-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
